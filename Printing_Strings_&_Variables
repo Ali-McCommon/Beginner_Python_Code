@@ -1,0 +1,4 @@
+Name = 'Evan'
+print ("Hello " + Name)
+
+  #Result: Hello Evan
