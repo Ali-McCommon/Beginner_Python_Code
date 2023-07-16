@@ -1,0 +1,6 @@
+First_Name = 'Evan'
+Middle_Name = 'Alan'
+Last_Name = 'Smith'
+print ("Hello " + First_Name + " " + Middle_Name + " " + Last_Name)
+	
+	#Result: Hello Evan Alan Smith
