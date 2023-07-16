@@ -1,0 +1,20 @@
+print("5 * 3 = " + str (5*3))
+
+  #Result: 5 * 3 = 15
+
+
+
+
+Workout_Time = 15
+Workout_Days_Per_Week = 5
+Total_Workout_Per_Week = Workout_Time * Workout_Days_Per_Week
+print ("I work out for " + str(Total_Workout_Per_Week) + " minuets per week")
+
+	#Result: I work out for 75 minuets per week
+
+
+
+
+Print ("2 + 2 = " + str (2 + 2))	
+
+  #Result: 2 + 2 = 4
