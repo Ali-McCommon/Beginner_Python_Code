@@ -1,0 +1,6 @@
+# "Ratio" returns a pair of integers whose ratio is exactly equal to the original float and with a positive denominator. 
+
+ratio = ((1+(5**(1/2)))/2)
+print(ratio)
+
+	#Result: 1.618033988749895
