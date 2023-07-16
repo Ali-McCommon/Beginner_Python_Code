@@ -1,0 +1,17 @@
+#Basic Printing
+
+print("Elora is cute")
+
+  #Result: Elora is cute
+
+
+
+#Printing Mutiple Veriables in a String
+
+friends = ['Sara', 'Kyle', 'Ashley']
+for friend in friends:
+    print ("Hi "+friend)
+	
+  #Result: Hi Sara
+  #Hi Kyle
+  #Hi Ashley
