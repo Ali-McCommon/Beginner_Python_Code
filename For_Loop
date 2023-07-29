@@ -1,0 +1,4 @@
+# a For Loop iterates over a sequence of values
+# they can be used to copy files to machines, process the contents of files, and automatically install software
+# use for loops when there's a sequence of elements you want to iterate
+
