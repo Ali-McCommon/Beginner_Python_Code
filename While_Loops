@@ -1,0 +1,45 @@
+#While Loops instruct your computer to continuously execute
+#your code based on the value of a condition
+
+x = 0
+while x < 5:
+    print ( "Not there yet, x=" + str (x))
+    x = x + 1
+print ("x=" + str(x))
+
+  #Result: Not there yet, x=0
+  #Not there yet, x=1
+  #Not there yet, x=2
+  #Not there yet, x=3
+  #Not there yet, x=4
+  #x=5
+
+
+def attempts(n):
+    x = 1
+    while x <= n:
+        print("Attempt " + str(x))
+        x += 1
+    print ("Done")
+        
+attempts(5)
+
+  #Result: Attempt 1
+  #Attempt 2
+  #Attempt 3
+  #Attempt 4
+  #Attempt 5
+  #Done
+
+#Example of an Infinite Loop
+while x % 2 == 0:
+    x = x/2
+
+#Fixing an Infinite Loops
+  #Nesting a Loop in an If Statment
+    if x != 0:
+      while x % 2 == 0:
+        x = x/2
+  #Using a logical operator
+    while x != and x % 2 == 0:
+      x = x/2
