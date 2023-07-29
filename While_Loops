@@ -1,5 +1,6 @@
 #While Loops instruct your computer to continuously execute
 #your code based on the value of a condition
+# use while loops when you want to repeat an action until a condition changes
 
 x = 0
 while x < 5:
